@@ -1,0 +1,274 @@
+1. Adım - Toplam müşteri sayısı: 3 | Önemli müşteri sayısı: 2
+2. Adım - Toplam müşteri sayısı: 6 | Önemli müşteri sayısı: 5
+3. Adım - Toplam müşteri sayısı: 7 | Önemli müşteri sayısı: 3
+4. Adım - Toplam müşteri sayısı: 9 | Önemli müşteri sayısı: 6
+
+Toplam Müşteri Sayısı: 25
+Önemli Müşteri Sayısı: 16
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: Musteri 3, Musteri 4, Musteri 5, Musteri 6, 
+Şu anda sipariş veren müşteriler: Musteri 1, Musteri 2, 
+Yemek bekleyen müşteriler: (yok)
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, 
+Şu anda sipariş alan garsonlar: Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda sipariş veren müşteriler: Musteri 1, Musteri 2, Musteri 3, 
+Yemek bekleyen müşteriler: (yok)
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: (yok)
+Şu anda sipariş alan garsonlar: Garson 1, Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda sipariş veren müşteriler: Musteri 1, Musteri 2, Musteri 3, 
+Yemek bekleyen müşteriler: (yok)
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: (yok)
+Şu anda sipariş alan garsonlar: Garson 1, Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda sipariş veren müşteriler: Musteri 3, 
+Yemek bekleyen müşteriler: Musteri 1, Musteri 2, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: Garson 1, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: Musteri 6, 
+Şu anda sipariş veren müşteriler: Musteri 4, Musteri 5, 
+Yemek bekleyen müşteriler: Musteri 1, Musteri 2, Musteri 3, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, 
+Şu anda sipariş alan garsonlar: Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 2
+Şu anda yemek pişiren aşçılar: Asci 1, 
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Yemek bekleyen müşteriler: Musteri 1, Musteri 2, Musteri 3, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: (yok)
+Şu anda sipariş alan garsonlar: Garson 1, Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 2
+Şu anda yemek pişiren aşçılar: Asci 1, 
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 5, Musteri 6, 
+Yemek bekleyen müşteriler: Musteri 1, Musteri 2, Musteri 3, Musteri 4, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 2, 
+Şu anda sipariş alan garsonlar: Garson 1, Garson 3
+Sipariş bekleyen aşçılar: Asci 2
+Şu anda yemek pişiren aşçılar: Asci 1, 
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 6, 
+Yemek bekleyen müşteriler: Musteri 3, Musteri 4, Musteri 5, 
+Şu anda yemek yiyen müşteriler: Musteri 1, Musteri 2, 
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: Garson 1, 
+Sipariş bekleyen aşçılar: (yok)
+Şu anda yemek pişiren aşçılar: Asci 1, Asci 2
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: (yok)
+Yemek bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda yemek yiyen müşteriler: Musteri 1, Musteri 2, Musteri 3, 
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: (yok)
+Sipariş bekleyen aşçılar: Asci 1, 
+Şu anda yemek pişiren aşçılar: Asci 2
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: (yok)
+Yemek bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda yemek yiyen müşteriler: Musteri 1, Musteri 3, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 2, 
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: (yok)
+Sipariş bekleyen aşçılar: Asci 1, 
+Şu anda yemek pişiren aşçılar: Asci 2
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 24, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: (yok)
+Yemek bekleyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Şu anda yemek yiyen müşteriler: Musteri 1, Musteri 3, 
+Ödeme yapmayı bekleyen müşteriler: (yok)
+Şu anda ödeme yapan müşteriler: Musteri 2, 
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: (yok)
+Sipariş bekleyen aşçılar: Asci 1, 
+Şu anda yemek pişiren aşçılar: Asci 2
+Ödeme bekleyen kasalar: (yok)
+Şu anda ödeme alan kasalar: Kasa 1
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 24, 
+Yemek bekleyen müşteriler: Musteri 5, Musteri 6, 
+Şu anda yemek yiyen müşteriler: Musteri 3, Musteri 4, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 1, 
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 3
+Şu anda sipariş alan garsonlar: Garson 2, 
+Sipariş bekleyen aşçılar: Asci 1, 
+Şu anda yemek pişiren aşçılar: Asci 2
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 17, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 24, 
+Yemek bekleyen müşteriler: Musteri 6, 
+Şu anda yemek yiyen müşteriler: Musteri 4, Musteri 5, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 3, 
+Şu anda ödeme yapan müşteriler: Musteri 1, 
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 3
+Şu anda sipariş alan garsonlar: Garson 2, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: (yok)
+Şu anda ödeme alan kasalar: Kasa 1
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 17, Musteri 24, 
+Yemek bekleyen müşteriler: (yok)
+Şu anda yemek yiyen müşteriler: Musteri 4, Musteri 5, Musteri 6, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 3, 
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 3
+Şu anda sipariş alan garsonlar: Garson 1, Garson 2, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 10, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 17, 
+Yemek bekleyen müşteriler: Musteri 24, 
+Şu anda yemek yiyen müşteriler: Musteri 5, Musteri 6, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 4, 
+Şu anda ödeme yapan müşteriler: Musteri 3, 
+Sipariş almayı bekleyen garsonlar: Garson 2, Garson 3
+Şu anda sipariş alan garsonlar: Garson 1, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: (yok)
+Şu anda ödeme alan kasalar: Kasa 1
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 10, Musteri 17, 
+Yemek bekleyen müşteriler: Musteri 24, 
+Şu anda yemek yiyen müşteriler: Musteri 5, Musteri 6, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 4, 
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 3
+Şu anda sipariş alan garsonlar: Garson 1, Garson 2, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 8, Musteri 9, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 10, 
+Yemek bekleyen müşteriler: Musteri 17, Musteri 24, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: Musteri 5, Musteri 6, 
+Şu anda ödeme yapan müşteriler: Musteri 4, 
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 3
+Şu anda sipariş alan garsonlar: Garson 2, 
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: (yok)
+Şu anda ödeme alan kasalar: Kasa 1
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 9, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 8, Musteri 10, 
+Yemek bekleyen müşteriler: Musteri 17, Musteri 24, 
+Şu anda yemek yiyen müşteriler: (yok)
+Ödeme yapmayı bekleyen müşteriler: Musteri 5, Musteri 6, 
+Şu anda ödeme yapan müşteriler: (yok)
+Sipariş almayı bekleyen garsonlar: Garson 1, 
+Şu anda sipariş alan garsonlar: Garson 2, Garson 3
+Sipariş bekleyen aşçılar: Asci 1, Asci 2
+Şu anda yemek pişiren aşçılar: (yok)
+Ödeme bekleyen kasalar: Kasa 1
+Şu anda ödeme alan kasalar: (yok)
+
+Oturmayı bekleyen müşteriler: Musteri 7, Musteri 9, Musteri 11, Musteri 12, Musteri 13, Musteri 14, Musteri 15, Musteri 16, Musteri 18, Musteri 19, Musteri 20, Musteri 21, Musteri 22, Musteri 23, Musteri 25
+Sipariş vermeyi bekleyen müşteriler: (yok)
+Şu anda sipariş veren müşteriler: Musteri 8, 
+Yemek bekleyen müşteriler: Musteri 10, Musteri 17, 
+Şu anda yemek yiyen müşteriler: Musteri 24, 
+Ödeme yapmayı bekleyen müşteriler: Musteri 6, 
+Şu anda ödeme yapan müşteriler: Musteri 5, 
+Sipariş almayı bekleyen garsonlar: Garson 1, Garson 2, 
+Şu anda sipariş alan garsonlar: Garson 3
+Sipariş bekleyen aşçılar: Asci 2
+Şu anda yemek pişiren aşçılar: Asci 1, 
+Ödeme bekleyen kasalar: (yok)
+Şu anda ödeme alan kasalar: Kasa 1
+
