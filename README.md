@@ -6,6 +6,10 @@ Using Java and Swing management processes, this project simulates the routine op
 
 The Restaurant Management System simulates the routine operation cycle of a restaurant. Various roles, including customers, waiters, chefs, and cashiers, are simulated using different threads. Customers enter the restaurant, place orders, eat, and pay before leaving. Waiters take orders and deliver them to chefs. Chefs prepare the meals, which are then served to customers by the waiters. The cashier handles the payments from customers.
 
+## Project Pictures
+
+![Restaurant Management System](https://github.com/lupsi12/threads-Restaurant-system/assets/105547899/af74ddd1-2f3b-429c-8582-58e788bfb6cf)
+
 ## Setup
 
 ### Requirements
